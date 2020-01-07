@@ -9,10 +9,14 @@ import (
 	random "github.com/alok87/goutils/pkg/random"
 )
 
+const mySQLHost = "34.93.137.151"
+
+var mySQLConnection = fmt.Sprintf("root:password@tcp(%s)/tour_travel", mySQLHost)
+
 //AddAuthCode function
 func AddAuthCode(userID int32) (authCode string) {
-	db, err := sql.Open("mysql", "root:password@tcp(127.0.0.1:3306)/tour_travel")
-
+	//db, err := sql.Open("mysql", "root:password@tcp(127.0.0.1:3306)/tour_travel")
+	db, err := sql.Open("mysql", mySQLConnection)
 	// if there is an error opening the connection, handle it
 	if err != nil {
 		panic(err.Error())
