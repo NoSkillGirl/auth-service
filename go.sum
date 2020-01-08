@@ -21,6 +21,8 @@ github.com/NoSkillGirl/user-service v0.0.0-20191227134803-d7bcfa98cd85 h1:+N8ZJR
 github.com/NoSkillGirl/user-service v0.0.0-20191227134803-d7bcfa98cd85/go.mod h1:r4F3hkuOBbinIeaYwPhsviiaM293Xiq4hp9gTv1ktII=
 github.com/NoSkillGirl/user-service v0.0.0-20191227140616-bf8a6475f7cc h1:eqqOvU2vi72McGbeMn7SLGfh/qHD0n3K6YuYqTLSX4E=
 github.com/NoSkillGirl/user-service v0.0.0-20191227140616-bf8a6475f7cc/go.mod h1:r4F3hkuOBbinIeaYwPhsviiaM293Xiq4hp9gTv1ktII=
+github.com/NoSkillGirl/user-service v0.0.0-20200107201306-964fd031825b h1:NiFhCfB6C6+jLWIOJlA7nLYJlBCirrhqRDjoSKvasHE=
+github.com/NoSkillGirl/user-service v0.0.0-20200107201306-964fd031825b/go.mod h1:r4F3hkuOBbinIeaYwPhsviiaM293Xiq4hp9gTv1ktII=
 github.com/alok87/goutils v0.0.0-20170710173822-29ef704e5505 h1:pAyqBjD+okJQK6F7u4DMY45oalMwRCqkt6r83H1fPSc=
 github.com/alok87/goutils v0.0.0-20170710173822-29ef704e5505/go.mod h1:ar43zx6lJlbVp6G2xcCFbHZF2p3s2ME4PoxM/ADonDE=
 github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=

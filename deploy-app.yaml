@@ -13,10 +13,10 @@ spec:
     metadata:
       labels:
         app: auth-service
-        version: v10
+        version: v11
     spec:
       containers:
-        - image: ajoop/auth-service:v10
+        - image: ajoop/auth-service:v11
           imagePullPolicy: Always
           name: auth-service
           ports:
